@@ -8,7 +8,7 @@
   <a href="mailto:fmiotto47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https:https://instagram.com/fe.miottoo/" target="_blank">
+  <a href="https:https://instagram.com/fe.miottoo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
  <a href="" target="_blank">
