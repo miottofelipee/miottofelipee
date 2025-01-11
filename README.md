@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=6000&color=DFDEDE&background=FFFFFF00&center=true&random=false&width=435&lines=Seja+Bem+Vindo!+%F0%9F%91%8B" alt="Typing SVG" />
