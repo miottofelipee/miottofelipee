@@ -34,7 +34,7 @@
 <div align=center>
 <img width=325 src="https://github-readme-stats.vercel.app/api?username=miottofelipee&theme=bear&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=miottofelipee&theme=bear&hide_border=false" alt="top langs" />
+  
 <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miottofelipee&theme=bear&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
